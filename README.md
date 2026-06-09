@@ -16,7 +16,7 @@ I enjoy building projects that connect frontend design, backend logic, databases
 ## Tech Stack
 
 **Languages:**  
-Python, JavaScript, TypeScript, HTML, CSS
+Python, Java, JavaScript, TypeScript, HTML, CSS
 
 **Frontend:**  
 React, Vite, CSS, Lucide React, Recharts
